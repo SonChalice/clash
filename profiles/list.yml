@@ -1,0 +1,124 @@
+files:
+  - time: 1672714445159.yml
+    name: 云深不知处
+    url: https://ysbzc.subscribe6.com/api/v1/client/subscribe?token=d23d60a76693fb43d7bd70a3f1a2cd3a
+    selected:
+      - name: GLOBAL
+        now: 隧道B-美国4-ChatGPT-x3.0
+      - name: 云深不知处
+        now: 隧道B-香港HKT-x1.0
+    interval: 24
+    subInfo:
+      upload: 7738434814
+      download: 277678037173
+      total: 2199023255552
+    mode: rule
+    cron: ""
+    headers: ""
+  - url: ""
+    time: 1675233387382.yml
+    name: clash_template2.yaml
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 节点选择
+        now: flying
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    mode: rule
+    interval: 0
+    cron: ""
+    headers: ""
+  - time: 1680402437397.yml
+    name: Config.yaml
+    url: ""
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 手动切换
+        now: 隧道B-香港HKT-x1.0
+      - name: 🎬 YouTube
+        now: 🚀 手动切换
+      - name: 🎬 NETFLIX
+        now: 🚀 手动切换
+      - name: 🎬 Disney+
+        now: 🚀 手动切换
+      - name: 🎬 巴哈姆特
+        now: 🚀 手动切换
+      - name: 🆎 AdBlock
+        now: REJECT
+      - name: 🌏 国外网站
+        now: 🚀 手动切换
+      - name: 🍎 苹果服务
+        now: DIRECT
+      - name: 🧩 微软服务
+        now: DIRECT
+      - name: 🎶 网易音乐
+        now: DIRECT
+      - name: 🎬 哔哩哔哩
+        now: DIRECT
+      - name: 🎮 游戏平台
+        now: 🚀 手动切换
+      - name: 🌏 国内网站
+        now: DIRECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 手动切换
+      - name: 🇭🇰 香港节点
+        now: DIRECT
+      - name: 🇯🇵 日本节点
+        now: DIRECT
+      - name: 🇨🇳 台湾节点
+        now: DIRECT
+      - name: 🇺🇲 美国节点
+        now: 隧道B-美国4-ChatGPT-x3.0
+    interval: 0
+    subInfo: {}
+    homeWeb: ""
+    cron: ""
+    headers: ""
+    mode: rule
+  - url: ""
+    time: 1682304984928.yml
+    name: moyu.yaml
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 手动切换
+        now: 🇭🇰 隧道B-香港HKT-x1.0
+      - name: 🌏 全球加速
+        now: 🚀 手动切换
+      - name: 🍎 苹果服务
+        now: DIRECT
+      - name: 📺 哔哩哔哩
+        now: DIRECT
+      - name: 🎬 国际媒体
+        now: 🚀 手动切换
+      - name: 🤖 OpenAi
+        now: 🇺🇲 美国节点
+      - name: 🌌 谷歌服务
+        now: 🚀 自动选择
+      - name: 📟 电报消息
+        now: 🚀 自动选择
+      - name: 🐦 推特服务
+        now: 🚀 自动选择
+      - name: 🎮 游戏平台
+        now: 🚀 手动切换
+      - name: 🆎 AdBlock
+        now: REJECT
+      - name: 🐟 兜底分流
+        now: 🚀 自动选择
+index: 2

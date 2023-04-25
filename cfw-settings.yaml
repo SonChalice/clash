@@ -1,0 +1,12 @@
+showNewVersionIcon: true
+hideAfterStartup: false
+randomControllerPort: true
+runTimeFormat: "hh : mm : ss"
+trayOrders:
+  - - icon
+  - - status
+    - traffic
+    - text
+hideTrayIcon: false
+theme: 0
+shortcutGlobalMode: ""
