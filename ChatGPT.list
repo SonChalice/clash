@@ -1,6 +1,6 @@
-DOMAIN,cdn.auth0.com
-DOMAIN,challenges.cloudflare.com
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,openai.com
+host,cdn.auth0.com
+host,challenges.cloudflare.com
+host,openaiapi-site.azureedge.net
+host-SUFFIX,ai.com
+host-SUFFIX,identrust.com
+host-SUFFIX,openai.com
