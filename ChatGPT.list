@@ -1,1 +1,6 @@
-host-SUFFIX,openai.com
+host-suffix,openai.com
+host,cdn.auth0.com
+host,challenges.cloudflare.com
+host,openaiapi-site.azureedge.net
+host-suffix,ai.com
+host-suffix,identrust.com
