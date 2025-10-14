@@ -1,4 +1,4 @@
-/***********************************
+/* 
 
 > ScriptName        知乎净化助手2.0[墨鱼版]
 > Author            @ddgksf2013
@@ -140,10 +140,8 @@ https://api.zhihu.com/search/hot_search url script-response-body https://gist.gi
 
 [mitm] 
 
-hostname = 118.89.204.198,103.41.167.237,2402:4e00:1200:ed00:0:9089:6dac:96b6,www.zhihu.com,api.zhihu.com,zhuanlan.zhihu.com,appcloud2.zhihu.com,m-cloud.zhihu.com,103.41.167.236,103.41.167.234,103.41.167.235,103.41.167.226
-
-
-***********************************/
+hostname = 118.89.204.198,103.41.167.237,2402:4e00:1200:ed00:0:9089:6dac:96b6,www.zhihu.com,api.zhihu.com,zhuanlan.zhihu.com,appcloud2.zhihu.com,m-cloud.
+**/
 
 
 
