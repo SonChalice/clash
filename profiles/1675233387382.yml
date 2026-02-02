@@ -21,7 +21,7 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"flying","type":"vmess","server":"sunweichen66.pp.ua","port":443,"cipher":"auto","uuid":"d86650c0-6aa4-4c46-f380-800ec7883223","alterId":4,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":""}}
+  - {"name":"起飞✈️","type":"vmess","server":"sunweichen66.pp.ua","port":34567,"cipher":"auto","uuid":"ced9120f-79ee-42ab-a08f-da25e1245a6d","alterId":4,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":""}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
